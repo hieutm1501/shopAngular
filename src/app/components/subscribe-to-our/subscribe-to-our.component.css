@@ -1,0 +1,62 @@
+.about_end {
+    margin-top: 70px;
+}
+
+.about_end_two {
+    padding: 80px 30px 80px 30px;
+}
+
+.about_end .about_end_two h6 {
+    color: #bc9127;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.about_end .about_end_two h1 {
+    font-size: 2.1rem;
+    width: 70%;
+    font-weight: 700;
+}
+
+.test-form {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.test-form input {
+    outline: none;
+    padding: 10px;
+    margin-right: 20px;
+    width: 80%;
+    border-radius: 10px;
+
+}
+
+.test-form button {
+    padding: 10px 20px;
+    background-color: #bc9127;
+    transition: .2s linear infinite;
+}
+
+
+.about_end .about_end_two button {
+    height: 40px;
+    font-weight: 700;
+    background-color: #edb932;
+    border: 1px solid #edb932;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+
+.about_end .about_end_two button:hover {
+    color: #e9e6e0;
+    transition: .2s linear;
+    background-color: #8e6806;
+}
+
+.about_end .about_end_two p {
+    color: #6c6c6c;
+    margin-top: 20px;
+}

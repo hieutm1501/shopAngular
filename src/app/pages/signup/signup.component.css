@@ -1,0 +1,51 @@
+h2 {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.card {
+    border: none;
+    width: 90%;
+}
+
+.card span input {
+    width: 100%;
+}
+
+.error-message {
+    color: rgb(239, 103, 103);
+}
+
+.card-btn {
+    text-align: center;
+}
+
+.p-button-success {
+    background-color: #d4ba7e;
+    border: #dbceaf;
+    color: #000;
+}
+
+.card-btn button:hover {
+    background-color: #987d3e;
+    border: #c18d14;
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-sign {
+    margin: 10px;
+}
+
+.form-icon {
+    height: 70%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
